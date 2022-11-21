@@ -1,10 +1,7 @@
-package Utils.Classes;
+
 
 import java.util.ArrayList;
 import java.util.List;
-
-import Utils.Interfaces.Category;
-import Utils.Interfaces.IProfile;
 
 //implementing Iprofile interface
 public class Profile implements IProfile {

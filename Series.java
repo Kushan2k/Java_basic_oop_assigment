@@ -1,9 +1,8 @@
-package Utils.Classes;
+
 
 import java.util.ArrayList;
 import java.util.List;
 
-import Utils.Interfaces.Category;
 
 //class for tv series
 public class Series {

@@ -1,4 +1,4 @@
-package Utils.Classes;
+
 
 //creating class for holding the image details
 public class ImageThumbnail {

@@ -1,9 +1,6 @@
-package Utils.Classes;
-
 import java.util.List;
 
-//improting the category enum
-import Utils.Interfaces.Category;
+
 
 //defining the movie class which inherit form video class
 public class Movie extends Video {

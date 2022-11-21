@@ -1,14 +1,4 @@
-package Utils;
-import Utils.Classes.Actor;
-import Utils.Classes.Documentries;
-import Utils.Classes.Episode;
-import Utils.Classes.ImageThumbnail;
-import Utils.Classes.Movie;
-import Utils.Classes.Person;
-import Utils.Classes.Profile;
-import Utils.Classes.Series;
-import Utils.Classes.User;
-import Utils.Interfaces.Category;
+
 
 
 //class for implementing testing fetures...
